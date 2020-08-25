@@ -12,7 +12,6 @@
 
 ## Jonnychipz's Cloud Journey
 
-[✍️ Introduce yourself]
 Hi Everyone my name is John Lunn, I work as a Technical Architect and have been working with Microsoft Azure in anger since around late 2017, I have predominently been focussed on M365 especially in the UC space, but have started to focus far more on Azure and the Cloud adoption journey.
 
 I found this challenge on Azure Fridays and thought I might give it a go as I am looking to brush off my old developer skillset and bring it up to speed with the modern day and Cloud. I am hoping to work towards AZ-400 DevOps Exam as well as learning a new language in Python and working with Terraform to work on great new Cloud solutions!
@@ -23,7 +22,7 @@ Really looking forward to getting started with this journey and hope to meed som
 - [✍️ Link to my LinkedIn - JAPLunn](https://www.linkedin.com/in/japlunn)
 - [✍️ Link to my Blog - Jonnychipz.com](http://jonnychipz.com)
 
-It would be awesome if you could follow all my other socials linked form my Blog would be great to hear from you!
+It would be awesome if you could follow all my other socials linked form my Blog would be great to hear from you!!!
 
 Let the Journey Begin!
 
