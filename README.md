@@ -10,20 +10,22 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
-## [✍️ Your Name]'s Cloud Journey
+## Jonnychipz's Cloud Journey
 
 [✍️ Introduce yourself]
+Hi Everyone my name is John Lunn, I work as a Technical Architect and have been working with Microsoft Azure in anger since around late 2017, I have predominently been focussed on M365 especially in the UC space, but have started to focus far more on Azure and the Cloud adoption journey.
 
-[✍️ Tell us why you started this challenge]
+I found this challenge on Azure Fridays and thought I might give it a go as I am looking to brush off my old developer skillset and bring it up to speed with the modern day and Cloud. I am hoping to work towards AZ-400 DevOps Exam as well as learning a new language in Python and working with Terraform to work on great new Cloud solutions!
 
-[✍️ Tell us where you want to be at the end of the challenge]
+Really looking forward to getting started with this journey and hope to meed some likeminded folk along the way! Always happy to have a chat so please do reach out to me if you would like to!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to my Twitter @jonnychiz](https://twitter.com/jonnychipz)
+- [✍️ Link to my LinkedIn - JAPLunn](https://www.linkedin.com/in/japlunn)
+- [✍️ Link to my Blog - Jonnychipz.com](http://jonnychipz.com)
+
+It would be awesome if you could follow all my other socials linked form my Blog!
+
+Let the Journey Begin!
 
 ## Stepping out the door
 
