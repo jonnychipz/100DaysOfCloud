@@ -23,7 +23,7 @@ Really looking forward to getting started with this journey and hope to meed som
 - [✍️ Link to my LinkedIn - JAPLunn](https://www.linkedin.com/in/japlunn)
 - [✍️ Link to my Blog - Jonnychipz.com](http://jonnychipz.com)
 
-It would be awesome if you could follow all my other socials linked form my Blog!
+It would be awesome if you could follow all my other socials linked form my Blog would be great to hear from you!
 
 Let the Journey Begin!
 
