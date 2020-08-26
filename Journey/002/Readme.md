@@ -15,6 +15,6 @@ Jonnychipz
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[Twitter](https://twitter.com/jonnychipz/status/1298317135723274241)
-[LinkedIn](https://www.linkedin.com/posts/japlunn_1100-100daysofcloud-jonnychipz-is-giving-activity-6704082824116359168-64L_)
-[Blog](https://jonnychipz.com/2020/08/25/100daysofcloud-jonnychipz-is-giving-it-a-whirl-day1-100/)
+[Twitter](https://twitter.com/jonnychipz/status/1298696214414729221)
+[LinkedIn](https://www.linkedin.com/posts/japlunn_2100-100daysofcloud-jonnychipz-getting-activity-6704461901704818688-Bt-g)
+[Blog](https://jonnychipz.com/2020/08/26/100daysofcloud-jonnychipz-day2-100-getting-organised/)
