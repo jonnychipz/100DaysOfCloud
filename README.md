@@ -29,7 +29,7 @@ Let the Journey Begin!
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [Jonnychipz is giving it a whirl](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Lets get organised!](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
