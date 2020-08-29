@@ -32,7 +32,7 @@ Let the Journey Begin!
 - [ ] ☁️ 2 > [Getting Organised](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Still Getting Organised](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [DevOps Day!](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > [DevOps and a touch of Terraform Learning](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
