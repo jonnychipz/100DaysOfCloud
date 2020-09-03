@@ -37,7 +37,7 @@ Let the Journey Begin!
 - [ ] ☁️ 7 > [Devops Connecting the Circle](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [DevOps Practicing Kaizen, the Art of Continuous Improvement](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [DevOps Tooling your practice and Top 10's](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [Smart Cities Intro](Journey/010/Readme.md)
 
 ## Walking down the road
 
