@@ -42,7 +42,7 @@ Let the Journey Begin!
 ## Walking down the road
 
 - [ ] ☁️ 11 > [Smart Cities Making Cities Our Home](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 12 > [Managing Identities and Governance in Azure AZ-104](Journey/012/Readme.md)
 - [ ] ☁️ 13 > [](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
