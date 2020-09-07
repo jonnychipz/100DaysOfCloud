@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Jonnychipz 100DaysOfCloud Day[12/100]
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+Azure AZ104 Learning
 
-## Try yourself
+I thought I would switch it up again today and move back onto the MS Learn AZ104 renewed Modules and worked my way through the Configure and Manage Virtual Networks for Azure Admins modules.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Split accross 12 individual modules:
+*Configure the network for your virtual machines
+*Design an IP addressing schema for your Azure deployment
+*Host your domain on Azure DNS
+*Distribute your services across Azure virtual networks and integrate them by using virtual network peering
+*Manage and control traffic flow in your Azure deployment with routes
+*Connect your on-premises network to Azure with VPN Gateway
+*Connect your on-premises network to the Microsoft global network by using ExpressRoute
+*Secure and isolate access to Azure resources by using network security groups and service endpoints
+*Load balance your web service traffic with Application Gateway
+*Improve application scalability and resiliency by using Azure Load Balancer
+*Troubleshoot inbound network connectivity for Azure Load Balancer
+*Monitor and troubleshoot your end-to-end Azure network infrastructure by using network monitoring tools
 
-### Step 1 — Summary of Step
+Some great information!
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Jonnychipz
 
 ## Social Proof
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[Twitter](https://twitter.com/jonnychipz/status/1303023024992649217)
+[LinkedIn](https://www.linkedin.com/posts/japlunn_day14100-100daysofcloud-jonnychipz-activity-6708788713557639168-bLSe)
+[Blog](https://jonnychipz.com/2020/09/07/day14-100-100daysofcloud-jonnychipz-configure-and-manage-virtual-networks-for-azure-admins-az-104/)
