@@ -4,9 +4,9 @@
 
 ## Cloud Research
 
-Tpday I picked back up on the study of AZ-400 Designing and Implementing Microsoft DevOps Solutions exam with the 'Develop and Instrumentation Strategy' Learning Path Way.
+Today I picked back up on the study of AZ-400 Designing and Implementing Microsoft DevOps Solutions exam with the 'Develop and Instrumentation Strategy' Learning Path Way.
 
-I spent a good 3-4 hours reading through the learning meterials in amongst an eexciting day of new Amazon deliveries to look at IoT and live streaming! Really ramping up the interaction and subkect areas now.
+I spent a good 3-4 hours reading through the learning meterials in amongst an eexciting day of new Amazon deliveries to look at IoT and live streaming! Really ramping up the interaction and subject areas now.
 
 Jonnychipz
 

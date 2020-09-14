@@ -54,7 +54,7 @@ Let the Journey Begin!
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
+- [ ] ☁️ 21 > [Develop a Site Reliability Engineering (SRE) strategy](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
