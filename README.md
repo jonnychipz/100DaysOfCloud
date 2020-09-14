@@ -50,7 +50,7 @@ Let the Journey Begin!
 - [ ] ☁️ 17 > [Welsh Azure User Group Day!!!](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Stocktake Day with a bit of Azure DevOps Planning](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Develop an instrumentation strategy AZ-400 - Part 1](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [Develop an instrumentation strategy AZ-400 - Part 2](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
