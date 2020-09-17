@@ -57,7 +57,7 @@ Let the Journey Begin!
 - [ ] ☁️ 21 > [Develop a Site Reliability Engineering (SRE) strategy AZ400](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [Develop a security and compliance plan AZ-400](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [Manage source control AZ-400](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
+- [ ] ☁️ 24 > [Facilitate communication and collaboration AZ-400](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
