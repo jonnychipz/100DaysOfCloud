@@ -59,7 +59,7 @@ Let the Journey Begin!
 - [ ] ☁️ 23 > [Manage source control AZ-400](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [Facilitate communication and collaboration AZ-400](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [Define and implement continuous integration AZ-400](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
+- [ ] ☁️ 26 > [Microsoft Azure Well Architected Framework](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
