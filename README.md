@@ -62,7 +62,7 @@ Let the Journey Begin!
 - [ ] ☁️ 26 > [Microsoft Azure Well Architected Framework](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [Data Storage in Azure](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Automating Business Processes with Azure](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
+- [ ] ☁️ 29 > [Microsoft Ignite Security Challenge](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
