@@ -63,7 +63,7 @@ Let the Journey Begin!
 - [ ] ☁️ 27 > [Data Storage in Azure](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [Automating Business Processes with Azure](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [Microsoft Ignite Security Challenge](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Microsoft Ignite Data & AI Challenge](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
