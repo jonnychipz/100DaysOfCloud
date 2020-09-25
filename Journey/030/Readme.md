@@ -1,10 +1,10 @@
 <!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# Jonnychipz 100DaysOfCloud Day[29/100]
+# Jonnychipz 100DaysOfCloud Day[30/100]
 
 ## Cloud Research
 
-Microsoft Ignite Cloud SKills Challenge - Data & AI Challenge.
+Microsoft Ignite Cloud Skills Challenge - Data & AI Challenge.
 
 Today I took the time to work through the Data & AI Challenge of MS Ignite CSC - A set of MS Learn modules that highlight the Microsoft Data servcies in Azure!
 
