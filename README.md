@@ -68,7 +68,7 @@ Let the Journey Begin!
 ## Into the bushy, thorny forest
 
 - [ ] ☁️ 31 > [Azure Communication Services (ACS) Public Preview](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
+- [ ] ☁️ 32 > [Choosing your IaC Tooling?](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
