@@ -69,7 +69,7 @@ Let the Journey Begin!
 
 - [ ] ☁️ 31 > [Azure Communication Services (ACS) Public Preview](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [Choosing your IaC Tooling?](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
+- [ ] ☁️ 33 > [Live Streaming with Azure!](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
