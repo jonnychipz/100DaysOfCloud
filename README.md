@@ -71,7 +71,7 @@ Let the Journey Begin!
 - [ ] ☁️ 32 > [Choosing your IaC Tooling?](Journey/032/Readme.md)
 - [ ] ☁️ 33 > [Live Streaming with Azure!](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [Secure your Azure Cloud Data](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
+- [ ] ☁️ 35 > [Store Data in Azure](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
