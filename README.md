@@ -73,7 +73,7 @@ Let the Journey Begin!
 - [ ] ☁️ 34 > [Secure your Azure Cloud Data](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [Store Data in Azure](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [Catch Up Day](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
+- [ ] ☁️ 37 > [Hashicorp Vault](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
 - [ ] ☁️ 40 > [](Journey/040/Readme.md)
