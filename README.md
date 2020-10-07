@@ -76,7 +76,7 @@ Let the Journey Begin!
 - [ ] ☁️ 37 > [Hashicorp Vault](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [Azure Dev - Connect your services together](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [Serverless Exploration](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [ ] ☁️ 40 > [Creating your first Function App](Journey/040/Readme.md)
 
 ## Trekking the dunes
 
