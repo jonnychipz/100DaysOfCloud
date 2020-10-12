@@ -82,7 +82,7 @@ Let the Journey Begin!
 
 - [ ] ☁️ 41 > [Azure Durable Functions](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [Azure Functions Core Tools](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [](Journey/043/Readme.md)
+- [ ] ☁️ 43 > [Create Serverless Applications in Azure](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
