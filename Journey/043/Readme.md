@@ -12,6 +12,6 @@ Jonnychipz
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[Twitter](https://jonnychipz.com/2020/10/12/day43-100-100daysofcloud-jonnychipz-create-serverless-applications-in-azure/)
+[Twitter](https://twitter.com/jonnychipz/status/1315555222626791425)
 [LinkedIn](https://www.linkedin.com/posts/japlunn_day43100-100daysofcloud-jonnychipz-activity-6721320909669457920-xzSO)
 [Blog](https://jonnychipz.com/2020/10/12/day43-100-100daysofcloud-jonnychipz-create-serverless-applications-in-azure/)
