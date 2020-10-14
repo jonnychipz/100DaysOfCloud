@@ -84,7 +84,7 @@ Let the Journey Begin!
 - [ ] ☁️ 42 > [Azure Functions Core Tools](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [Create Serverless Applications in Azure](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [When Satya Nadella Drops in to say Hello!!!](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
+- [ ] ☁️ 45 > [Microsoft Azure DevOps Open Hack Challenge](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
