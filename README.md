@@ -86,7 +86,7 @@ Let the Journey Begin!
 - [ ] ☁️ 44 > [When Satya Nadella Drops in to say Hello!!!](Journey/044/Readme.md)
 - [ ] ☁️ 45 > [Microsoft Azure DevOps Open Hack Challenge](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [Welsh Azure User Group Activities](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [](Journey/047/Readme.md)
+- [ ] ☁️ 47 > [Azure DevOps](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
