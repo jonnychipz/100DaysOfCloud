@@ -88,7 +88,7 @@ Let the Journey Begin!
 - [ ] ☁️ 46 > [Welsh Azure User Group Activities](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [Azure DevOps](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [Weekend Roundup](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
+- [ ] ☁️ 49 > [Microsoft Power Platform Functional Consultant PL-200 (Beta)](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
 ## Winding through the canyons
