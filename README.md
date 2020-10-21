@@ -89,7 +89,7 @@ Let the Journey Begin!
 - [ ] ☁️ 47 > [Azure DevOps](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [Weekend Roundup](Journey/048/Readme.md)
 - [ ] ☁️ 49 > [Microsoft Power Platform Functional Consultant PL-200 (Beta)](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [](Journey/050/Readme.md)
+- [ ] ☁️ 50 > [Microsoft Power Platform Functional Consultant PL-200 (Beta) continued](Journey/050/Readme.md)
 
 ## Winding through the canyons
 
