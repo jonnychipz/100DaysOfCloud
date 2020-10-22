@@ -93,7 +93,7 @@ Let the Journey Begin!
 
 ## Winding through the canyons
 
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
+- [ ] ☁️ 51 > [New PC Build Time!](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
 - [ ] ☁️ 53 > [](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
