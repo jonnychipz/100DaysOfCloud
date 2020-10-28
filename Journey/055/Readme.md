@@ -4,7 +4,7 @@
 
 ## Cloud Research
 
-
+DevOps, a quick look at Managing Multiple Agile Teams using Delivery Plans.
 
 Jonnychipz
 
@@ -12,6 +12,6 @@ Jonnychipz
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[Twitter](https://twitter.com/jonnychipz/status/1321199942002712582)
-[LinkedIn](https://www.linkedin.com/posts/japlunn_day54100-100daysofcloud-jonnychipz-activity-6726965630999826433-7R8J)
-[Blog](https://jonnychipz.com/2020/10/27/day54-100-100daysofcloud-jonnychipz-the-day-of-the-set-up/)
+[Twitter](https://twitter.com/jonnychipz/status/1321564086832869378)
+[LinkedIn](https://www.linkedin.com/posts/japlunn_day55100-100daysofcloud-jonnychipz-activity-6727329775678963712-9Apj)
+[Blog](https://jonnychipz.com/2020/10/28/day55-100-100daysofcloud-jonnychipz-managing-agile-software-delivery-plans-across-teams/)
