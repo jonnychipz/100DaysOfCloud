@@ -98,7 +98,7 @@ Let the Journey Begin!
 - [ ] ☁️ 53 > [Foundational Pillars of DevOps - Culture and Lean Product](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [The Day of the Set Up!](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [Managing Agile Software Delivery Plans Across Teams](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
+- [ ] ☁️ 56 > [Making an LED Blink with Raspberry Pi, Python and Remote SSH](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
