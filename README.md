@@ -99,7 +99,7 @@ Let the Journey Begin!
 - [ ] ☁️ 54 > [The Day of the Set Up!](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [Managing Agile Software Delivery Plans Across Teams](Journey/055/Readme.md)
 - [ ] ☁️ 56 > [Making an LED Blink with Raspberry Pi, Python and Remote SSH](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
+- [ ] ☁️ 57 > [Azure IoT Hub Upload Data and interacting with LED on Raspberry Pi!](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
