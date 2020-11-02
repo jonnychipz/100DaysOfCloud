@@ -16,4 +16,4 @@ Jonnychipz
 
 [Twitter](https://twitter.com/jonnychipz/status/1322201786980225024)
 [LinkedIn](https://www.linkedin.com/posts/japlunn_day57100-100daysofcloud-jonnychipz-activity-6727967475897528320-umOJ)
-[Blog](hhttps://jonnychipz.com/2020/10/30/day57-100-100daysofcloud-jonnychipz-azure-iot-hub-upload-data-and-interacting-with-led-on-raspberry-pi/)
+[Blog](https://jonnychipz.com/2020/10/30/day57-100-100daysofcloud-jonnychipz-azure-iot-hub-upload-data-and-interacting-with-led-on-raspberry-pi/)
