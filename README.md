@@ -101,7 +101,7 @@ Let the Journey Begin!
 - [ ] ☁️ 56 > [Making an LED Blink with Raspberry Pi, Python and Remote SSH](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [Azure IoT Hub Upload Data and interacting with LED on Raspberry Pi!](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [DevOps Continuous Security and Continuous Operations](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
+- [ ] ☁️ 59 > [Introduction to my YouTube Channel](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
 
 ## Stumbling through the caves
