@@ -106,7 +106,7 @@ Let the Journey Begin!
 
 ## Stumbling through the caves
 
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
+- [ ] ☁️ 61 > [Windows Virtual Desktop, NetApp Files and more!](Journey/061/Readme.md)
 - [ ] ☁️ 62 > [](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [](Journey/064/Readme.md)
