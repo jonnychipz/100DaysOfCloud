@@ -107,8 +107,8 @@ Let the Journey Begin!
 ## Stumbling through the caves
 
 - [ ] ☁️ 61 > [Windows Virtual Desktop, NetApp Files and more!](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
+- [ ] ☁️ 62 > [AZ-400 Azure DevOps Engineer Expert Exam day!!](Journey/062/Readme.md)
+- [ ] ☁️ 63 > [Catch up Day!](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [](Journey/065/Readme.md)
 - [ ] ☁️ 66 > [](Journey/066/Readme.md)
