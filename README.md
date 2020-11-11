@@ -110,7 +110,7 @@ Let the Journey Begin!
 - [ ] ☁️ 62 > [AZ-400 Azure DevOps Engineer Expert Exam day!!](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [Catch up Day!](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [Enterprise Scale - Landing Zone OpenHack - Day 1](Journey/064/Readme.md)
-- [ ] ☁️ 65 > [](Journey/065/Readme.md)
+- [ ] ☁️ 65 > [Enterprise Scale - Landing Zone OpenHack - Day 2](Journey/065/Readme.md)
 - [ ] ☁️ 66 > [](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [](Journey/068/Readme.md)
