@@ -4,7 +4,7 @@
 
 ## Cloud Research
 
-It's Day 2 of 3 on ENterprise Scale Landing Zone!!
+It's Day 2 of 3 on Enterprise Scale Landing Zone!!
 
 Day 2 picked up on the selection of Azure Policy and assignment at Management Group level in the Azure Portal..... we then moved into AzOps and my mind was blown! Check out my Blog for more!!
 
