@@ -113,7 +113,7 @@ Let the Journey Begin!
 - [ ] ☁️ 65 > [Enterprise Scale - Landing Zone OpenHack - Day 2](Journey/065/Readme.md)
 - [ ] ☁️ 66 > [Enterprise Scale - Landing Zone OpenHack - Day 3](Journey/066/Readme.md)
 - [ ] ☁️ 67 > [Welsh Azure User Group November Meet Up!](Journey/067/Readme.md)
-- [ ] ☁️ 68 > [](Journey/068/Readme.md)
+- [ ] ☁️ 68 > [Introduciton to Python](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
