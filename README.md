@@ -115,7 +115,7 @@ Let the Journey Begin!
 - [ ] ☁️ 67 > [Welsh Azure User Group November Meet Up!](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [Introduciton to Python](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [AZ-204 Developing Solutions for Microsoft Azure - Exam Prep](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+- [ ] ☁️ 70 > [Creating my First Logic App using VSCode](Journey/070/Readme.md)
 
 ## Resting at the Lagoon
 
