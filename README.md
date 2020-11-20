@@ -120,7 +120,7 @@ Let the Journey Begin!
 ## Resting at the Lagoon
 
 - [ ] ☁️ 71 > [Barefoot Computing](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
+- [ ] ☁️ 72 > [Azure Service Bus](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [](Journey/073/Readme.md)
 - [ ] ☁️ 74 > [](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
