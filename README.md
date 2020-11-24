@@ -122,7 +122,7 @@ Let the Journey Begin!
 - [ ] ☁️ 71 > [Barefoot Computing](Journey/071/Readme.md)
 - [ ] ☁️ 72 > [Azure Service Bus](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [Weekend Roundup - Future of WFH?!](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
+- [ ] ☁️ 74 > [Create your Cloud Adoption Framework Plan with Azure DevOps](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
