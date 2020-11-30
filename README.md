@@ -126,7 +126,7 @@ Let the Journey Begin!
 - [ ] ☁️ 75 > [DevOps Notts - Getting your Organisation to the Cloud with Microsoft CAF and Enterprise Scale](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [Update and Stock Take!](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [Creating an Azure Migrate Server Assessment](Journey/077/Readme.md)
-- [ ] ☁️ 78 > [](Journey/078/Readme.md)
+- [ ] ☁️ 78 > [1st Twitch Live Stream](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
