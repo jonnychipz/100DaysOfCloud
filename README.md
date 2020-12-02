@@ -128,7 +128,7 @@ Let the Journey Begin!
 - [ ] ☁️ 77 > [Creating an Azure Migrate Server Assessment](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [1st Twitch Live Stream](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [Day 1 Containers OpenHack](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+- [ ] ☁️ 80 > [Day 2 Containers OpenHack](Journey/080/Readme.md)
 
 ## Up into the mountains
 
