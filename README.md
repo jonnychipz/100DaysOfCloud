@@ -146,7 +146,7 @@ Let the Journey Begin!
 ## Into the sky to touch the cloud!
 
 - [ ] ☁️ 91 > [Exam Revision and Robot Arm](Journey/091/Readme.md)
-- [ ] ☁️ 92 > [](Journey/092/Readme.md)
+- [ ] ☁️ 92 > [Exams in the Bag!](Journey/092/Readme.md)
 - [ ] ☁️ 93 > [](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [](Journey/095/Readme.md)
