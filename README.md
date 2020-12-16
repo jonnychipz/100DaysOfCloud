@@ -141,11 +141,11 @@ Let the Journey Begin!
 - [ ] ☁️ 87 > [Build a WebApp with Blazor WebAssembly](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [Azureish Live - Santa's Digitally Transforming!](Journey/088/Readme.md)
 - [ ] ☁️ 89 > [Docker Deep Dive Book by Nigel Poulton](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
+- [ ] ☁️ 90 > [MSHOWTO Live – Enterprise Scale and AzOps](Journey/090/Readme.md)
 
 ## Into the sky to touch the cloud!
 
-- [ ] ☁️ 91 > [](Journey/091/Readme.md)
+- [ ] ☁️ 91 > [Exam Revision and Robot Arm](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
 - [ ] ☁️ 93 > [](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
