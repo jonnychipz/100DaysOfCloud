@@ -147,9 +147,9 @@ Let the Journey Begin!
 
 - [ ] ☁️ 91 > [Exam Revision and Robot Arm](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [Exams in the Bag!](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
-- [ ] ☁️ 94 > [](Journey/094/Readme.md)
-- [ ] ☁️ 95 > [](Journey/095/Readme.md)
+- [ ] ☁️ 93 > [MAPA Azure Champ](Journey/093/Readme.md)
+- [ ] ☁️ 94 > [Getting ready for the Holidays](Journey/094/Readme.md)
+- [ ] ☁️ 95 > [Creating a Web API with ASP.NET Core](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
