@@ -150,7 +150,7 @@ Let the Journey Begin!
 - [ ] ☁️ 93 > [MAPA Azure Champ](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [Getting ready for the Holidays](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [Creating a Web API with ASP.NET Core](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
+- [ ] ☁️ 96 > [Deploy a cloud-native ASP.NET Core microservice with GitHub Actions](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
