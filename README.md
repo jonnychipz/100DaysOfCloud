@@ -152,6 +152,6 @@ Let the Journey Begin!
 - [ ] ☁️ 95 > [Creating a Web API with ASP.NET Core](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [Deploy a cloud-native ASP.NET Core microservice with GitHub Actions](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [Introduction to Azure IoT Hub](Journey/097/Readme.md)
-- [ ] ☁️ 98 > [](Journey/098/Readme.md)
+- [ ] ☁️ 98 > [Introduction to Azure IoT](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
