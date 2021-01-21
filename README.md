@@ -91,7 +91,7 @@ Let the Journey Begin!
 - [ ] ☁️ 49 > [Microsoft Power Platform Functional Consultant PL-200 (Beta)](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [Microsoft Power Platform Functional Consultant PL-200 (Beta) continued](Journey/050/Readme.md)
 
-## Winding through the canyons
+## Winding through the canyons.
 
 - [ ] ☁️ 51 > [New PC Build Time!](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [Foundational Pillars of DevOps - Architecture and Technology](Journey/052/Readme.md)
